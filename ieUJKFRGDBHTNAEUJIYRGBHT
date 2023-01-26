@@ -1,5 +1,5 @@
 --* Script Info *--
-local script_version_number = "v6.5"
+local script_version_number = "v7"
 local last_updated = "25/01/2023"
 
 --* Setup Script *--
